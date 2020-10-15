@@ -655,7 +655,7 @@ There is an example for [customizing Transformer](https://github.com/flutterchin
 
 HttpClientAdapter is a bridge between Dio and HttpClient.
 
-Dio implements standard and friendly API  for developer.
+Dio implements standard and friendly API  for developers.
 
 HttpClient: It is the real object that makes Http requests.
 
